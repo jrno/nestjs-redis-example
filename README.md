@@ -71,3 +71,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Issues
+
+### Must use cache-manager v4 for NestJS 9
+https://github.com/node-cache-manager/node-cache-manager/issues/210
+
+### Must use cache-manager-store-redis v2 (not 3)
