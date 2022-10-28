@@ -14,7 +14,7 @@ Start app
 yarn start:dev
 ```
 
-Populate values to cache:
+Populate some values to cache by making requests:
 ```
 curl localhost:3000/method-cache-test/hello
 curl localhost:3000/method-cache-test/123
